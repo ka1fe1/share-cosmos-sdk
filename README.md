@@ -1,4 +1,4 @@
-cosmos-sdk：事务处理框架、多币种账户体系及内部状态的数据结构
+share-cosmos-sdk(2018.03.29)
 
 [TOC]
 
@@ -134,3 +134,6 @@ type Coins []Coin
 
 代码详见：[types/coin.go](https://github.com/cosmos/cosmos-sdk/blob/develop/types/coin.go)
 
+## init
+
+[baseapp initChainer](/Users/kaifei/.gvm/pkgsets/go1.9.2/global/src/github.com/cosmos/cosmos-sdk/examples/basecoin/app/app.go)
